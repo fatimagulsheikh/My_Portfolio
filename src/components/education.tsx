@@ -25,10 +25,10 @@ const Education = () => {
             </h2>
           </div>
           <p className="text-gray-600 leading-relaxed mt-2">
-            "At Allama Iqbal Open University, I am embracing an in-depth journey into advanced topics
+            At Allama Iqbal Open University, I am embracing an in-depth journey into advanced topics
             that challenge and inspire me daily. This experience has broadened my academic knowledge
             and developed my critical thinking, preparing me for real-world challenges with hands-on
-            projects and innovative learning approaches."
+            projects and innovative learning approaches.
           </p>
         </div>
 
@@ -44,9 +44,9 @@ const Education = () => {
             </h2>
           </div>
           <p className="text-gray-600 leading-relaxed mt-2">
-            "My time at Premier College laid a solid foundation for my future studies, instilling
+            My time at Premier College laid a solid foundation for my future studies, instilling
             discipline, analytical skills, and an appreciation for lifelong learning. The supportive
-            faculty and interactive courses prepared me well for the demands of university life."
+            faculty and interactive courses prepared me well for the demands of university life.
           </p>
         </div>
 
@@ -62,9 +62,9 @@ const Education = () => {
             </h2>
           </div>
           <p className="text-gray-600 leading-relaxed mt-2">
-            "Comprehensive Higher Secondary School provided a strong academic grounding and nurtured
+            Comprehensive Higher Secondary School provided a strong academic grounding and nurtured
             my love for learning. The dedication of my teachers and the enriching school environment
-            fostered a sense of discipline, curiosity, and resilience that I carry with me."
+            fostered a sense of discipline, curiosity, and resilience that I carry with me.
           </p>
         </div>
       </CardContent>
