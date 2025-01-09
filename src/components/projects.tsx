@@ -77,6 +77,12 @@ const Projects = () => {
       link: "https://milestone-5-pgl9rwho0-fatima-sheikhs-projects-c67349cc.vercel.app",
       image: "resume-4.jpg",
     },
+    {
+      name: "Blog Application",
+      detail: "My complete responsive 'Modern Blog Application' Build a Modern Blog Application with Next.js & Sanity.",
+      link: "https://text-sanity-mn3vsa6es-fatima-sheikhs-projects-c67349cc.vercel.app",
+      image: "blog.jpg",
+    },
   ];
 
   return (
